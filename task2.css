@@ -1,0 +1,30 @@
+/*
+#img1{
+    display: block;
+    margin: auto;
+    border-radius: 2px solid black;
+    border-radius: 3px;
+}
+
+#img2{
+    width: 100px;
+    position:absolute;
+    bottom: 400px;
+    right: 50px;
+    border-radius: 50%;
+}
+.card{
+    margin-top: 90px;
+    width: 500px;
+    margin-left: 300px;
+} */
+
+.img1{
+    width: 50px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 50px;
+    left: 630px;
+    top: -450px;
+    border-radius: 50%;
+}

@@ -1,0 +1,22 @@
+
+
+
+
+#p1{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pattaya', sans-serif;
+}
+
+#parent{
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px;
+}
+
+.footer{
+    padding: 20px;
+}
+
+p{
+    font-family: 'Caveat', cursive;
+}
+
